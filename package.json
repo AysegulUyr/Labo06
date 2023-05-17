@@ -1,0 +1,19 @@
+{
+  "name": "labo06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"},
+
+  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
